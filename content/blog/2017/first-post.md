@@ -5,15 +5,27 @@ tags=blog
 status=published
 ~~~~~~
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.
+#え？これで？インスタで話題のメイクアップアーティスト。驚きの材料
 
-* [http://example.org](http://example.org)
-* [Example.org](http://example.org)
+インスタグラムで２万人以上のフォロワーを持つ、メイクアップアーティストの
+レイチェル　ニュートンさんは、感謝祭を前に面白いチャレンジを思い付いちゃいました。
 
-Nam id nisl quam. Donec a lorem sit amet libero pretium vulputate vel ut purus. Suspendisse leo arcu, 
-mattis et imperdiet luctus, pulvinar vitae mi. Quisque fermentum sollicitudin feugiat. Mauris nec leo 
-ligula. Vestibulum tristique odio ut risus ultricies a hendrerit quam iaculis. Duis tempor elit sit amet 
-ligula vehicula et iaculis sem placerat. Fusce dictum, metus at volutpat lacinia, elit massa auctor risus, 
-id auctor arcu enim eu augue. Donec ultrices turpis in mi imperdiet ac venenatis sapien sodales. In 
-consequat imperdiet nunc quis bibendum. Nulla semper, erat quis ornare tristique, lectus massa posuere 
-libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.
+それは
+
+**食べ物でメイクをすること。**
+
+彼女が使っている材料は；
+- カカオパウダー
+- バタリースプレッド（マーガリンみたいなもの）
+- ハチミツ
+- インスタントパスタの粉
+- ルクマパウダー
+- コーヒーの粉
+- 白い袋のは・・・ごめんなさい。これはわからなかった。
+- スニッカーズ
+- いちごゼリーの素
+- ビーツ
+- ココナッツオイル
+
+スニッカーズでのシャドーイングは圧巻です。
+これはちょっと試したくなっちゃいますね。
