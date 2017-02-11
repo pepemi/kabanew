@@ -1,5 +1,5 @@
 languageCode = "en-us"
-publishDir = "/home/jay/www/kabanew"
+publishDir = "/home/sysdao/www/kabanew"
 hasCJKLanguage = true
 theme = "hugo-bootstrap"
 title = "kabanew"
