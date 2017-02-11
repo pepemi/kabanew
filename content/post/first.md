@@ -3,14 +3,13 @@ topics = ["topic 1"]
 keywords = ["key","words"]
 type = "post"
 date = "2017-02-12T04:42:39+09:00"
-title = "first"
-tags = ["one","two"]
+title = "え？これで？インスタで話題のメイクアップアーティスト。驚きの材料"
+tags = ["ビューティー","インスタ"]
 description = "description"
 author = "author"
 
 +++
 
-title=え？これで？インスタで話題のメイクアップアーティスト。驚きの材料 date=2017-01-17 type=post tags=blog status=published
 
 
 インスタグラムで２万人以上のフォロワーを持つ、メイクアップアーティストの
