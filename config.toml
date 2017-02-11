@@ -1,0 +1,6 @@
+languageCode = "en-us"
+publishDir = "/home/chisako/www/kabanew"
+hasCJKLanguage = true
+theme = "hugo-bootstrap"
+title = "kabanew"
+baseURL = "http://www.kabanew.com/"
