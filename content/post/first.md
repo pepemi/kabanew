@@ -7,6 +7,7 @@ title = "え？これで？インスタで話題のメイクアップアーテ�
 tags = ["ビューティー","インスタ"]
 description = "メイクアップアーティストのレイチェル ニュートンさんをご存知ですか？インスタグラムで２万人以上のフォロワーを持つ彼女、とある面白いチャレンジを思い付いちゃいました。"
 author = "author"
+thumbnail = "images/makeup_maven.png"
 image = "images/makeup_maven.png"
 +++
 
