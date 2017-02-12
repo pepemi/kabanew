@@ -1,6 +1,6 @@
 languageCode = "en-us"
 publishDir = "/home/sysdao/www/kabanew"
 hasCJKLanguage = true
-theme = "hugo-bootstrap"
+theme = "hugo_theme_robust"
 title = "kabanew"
 baseURL = "http://www.kabanew.com/"
