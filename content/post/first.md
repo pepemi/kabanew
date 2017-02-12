@@ -11,7 +11,7 @@ thumbnail = "images/makeup_maven.png"
 image = "images/makeup_maven.png"
 +++
 
-{{% img src="images/makeup_maven.png" %}}
+{{% img src="images/makeup_maven.png" class="right" %}}
 
 
 メイクアップアーティストのレイチェル　ニュートンさんをご存知ですか？
